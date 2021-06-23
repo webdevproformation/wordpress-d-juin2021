@@ -1,0 +1,24 @@
+http://localhost/wordpress/tp-1/xmlrpc.php
+
+outil Postman => requete 
+
+<methodCall>
+<methodName>system.listMethods</methodName>
+<params></params>
+</methodCall>
+
+
+POST 
+
+<methodCall>
+<methodName>wp.getUsersBlogs</methodName>
+<params>
+<param><value>admin</value></param>
+<param><value>admin</value></param>
+</params>
+</methodCall>
+
+<methodCall>
+<methodName>system.multicall</methodName>
+<params></params>
+</methodCall>

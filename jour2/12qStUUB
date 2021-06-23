@@ -1,0 +1,415 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tp-1</title>
+	<atom:link href="http://localhost/wordpress/tp-1/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wordpress/tp-1</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Tue, 22 Jun 2021 08:11:42 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Exo 4</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/22/exo-4/</link>
+					<comments>http://localhost/wordpress/tp-1/index.php/2021/06/22/exo-4/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Jun 2021 08:01:01 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=107</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><a href="https://google.fr"><img loading="lazy" width="150" height="150" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/dc-powerpuff-girls-batgirl-supergirl-wonder-woman-1920x1080-wallpaper-150x150.jpg" alt="3 mots de votre choix" class="wp-image-108"/></a><figcaption><a href="https://google.fr">https://google.fr</a></figcaption></figure></div>
+
+
+
+<h2>Bienvenu sur mon site</h2>
+<p>vous trouverez dans mon site les thèmes suivants :</p>
+<ul>
+    <li>Formation WP.</li>
+    <li>Trucs et Astuces</li>
+    <li>des tutos sur html et css </li>
+</ul>
+
+
+
+<div class="wp-block-columns alignfull are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Comment créer un site WordPress (2021) - Tutoriel en 20 étapes FACILES" width="750" height="422" src="https://www.youtube.com/embed/n4dLYjp7r_k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center">
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img loading="lazy" width="300" height="169" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-300x169.jpg" alt="mot clé pour le SEO" class="wp-image-33" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/wordpress/tp-1/index.php/2021/06/22/exo-4/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Utiliser la médiathèque</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/22/utiliser-la-mediatheque/</link>
+					<comments>http://localhost/wordpress/tp-1/index.php/2021/06/22/utiliser-la-mediatheque/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Jun 2021 07:18:16 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg" alt="comment utiliser la médiathèque" class="wp-image-17" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589.jpg" alt="" class="wp-image-94" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589.jpg 1920w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/c05b7ff477fbc7944a814150fd709589-1568x882.jpg 1568w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/wordpress/tp-1/index.php/2021/06/22/utiliser-la-mediatheque/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Protégé : Exo 3</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-3/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 14:39:21 +0000</pubDate>
+				<category><![CDATA[exo]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[cas pratique]]></category>
+		<category><![CDATA[découverte de wordpress]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=87</guid>
+
+					<description><![CDATA[Il n’y a pas d’extrait, car cette publication est protégée.]]></description>
+										<content:encoded><![CDATA[<p class="post-password-message">This content is password protected. Please enter a password to view.</p>
+<form action="http://localhost/wordpress/tp-1/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<label class="post-password-form__label" for="pwbox-3738169536">Password</label><input class="post-password-form__input" name="post_password" id="pwbox-3738169536" type="password" size="20" /><input type="submit" class="post-password-form__submit" name="Submit" value="Enter" /></form>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exo 2</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-2/</link>
+					<comments>http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 12:57:05 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=62</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et pulvinar orci, consequat volutpat lectus. Mauris libero sem, laoreet interdum tincidunt id, eleifend id ligula. Morbi eget porta felis. Pellentesque. voici comment ajouter un texte et une vidéo sur la même ligne il faut utiliser le block « colonnes »]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-4 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="576" height="1024" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1-576x1024.jpg" alt="" data-id="63" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1.jpg" data-link="http://localhost/wordpress/tp-1/?attachment_id=63" class="wp-image-63" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1-576x1024.jpg 576w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1-169x300.jpg 169w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1-768x1365.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1-864x1536.jpg 864w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_1.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="576" height="1024" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2-576x1024.jpg" alt="" data-id="64" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2.jpg" data-link="http://localhost/wordpress/tp-1/?attachment_id=64" class="wp-image-64" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2-576x1024.jpg 576w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2-169x300.jpg 169w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2-768x1365.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2-864x1536.jpg 864w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_2.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="576" height="1024" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3-576x1024.jpg" alt="" data-id="65" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3.jpg" data-link="http://localhost/wordpress/tp-1/?attachment_id=65" class="wp-image-65" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3-576x1024.jpg 576w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3-169x300.jpg 169w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3-768x1365.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3-864x1536.jpg 864w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_3.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="576" height="1024" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4-576x1024.jpg" alt="" data-id="66" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4.jpg" data-link="http://localhost/wordpress/tp-1/?attachment_id=66" class="wp-image-66" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4-576x1024.jpg 576w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4-169x300.jpg 169w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4-768x1365.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4-864x1536.jpg 864w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/BlackLabel-05-2.3.001-bigpicture_05_4.jpg 1080w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li></ul></figure>
+
+
+
+<p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et pulvinar orci, consequat volutpat lectus. Mauris libero sem, laoreet interdum tincidunt id, eleifend id ligula. Morbi eget porta felis. Pellentesque.</p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p class="justifier">voici comment ajouter un texte et une vidéo sur la même ligne</p>
+
+
+
+<p>il faut utiliser le block « colonnes »</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Tutoriel Bootstrap - Apprendre et comprendre Bootstrap rapidement - [FR]" width="750" height="422" src="https://www.youtube.com/embed/gm2RCfjXS3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+</div>
+</div>
+
+
+
+<h2>Bienvenu sur mon site</h2>
+<p>vous trouverez dans mon site les thèmes suivants :</p>
+<ul>
+    <li>Formation WP.</li>
+    <li>Trucs et Astuces</li>
+    <li>des tutos sur html et css </li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Article 4</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 11:42:52 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=24</guid>
+
+					<description><![CDATA[ajouter des images dans un article bloc complexe il est possible d&#8217;ajouter image et du texte l&#8217;un à côté de l&#8217;autre facilement Ajouter des galeries d&#8217;image Une galerie d&#8217;images est un block qui permet de mettre plusieurs images les uns à côtés des autres Ajouter des vidéos Pour ajouter des vidéos dans vos articles, deux&#8230; <a class="more-link" href="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/">Continue reading <span class="screen-reader-text">Article 4</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>ajouter des images dans un article </h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://google.fr"><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-1024x576.jpg" alt="" class="wp-image-25" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/9NACdwK.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><a href="https://google.fr">https://google.fr</a></figcaption></figure></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img loading="lazy" width="842" height="354" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/2d8f0632-b818-4c30-955f-1878fc50925e.jpg" alt="" class="wp-image-31 size-full" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/2d8f0632-b818-4c30-955f-1878fc50925e.jpg 842w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/2d8f0632-b818-4c30-955f-1878fc50925e-300x126.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/2d8f0632-b818-4c30-955f-1878fc50925e-768x323.jpg 768w" sizes="(max-width: 842px) 100vw, 842px" /></figure><div class="wp-block-media-text__content">
+<h2>bloc complexe</h2>
+
+
+
+<ul><li>il est possible d&rsquo;ajouter image</li><li>et du texte l&rsquo;un à côté de l&rsquo;autre facilement</li></ul>
+</div></div>
+
+
+
+<h2>Ajouter des galeries d&rsquo;image</h2>
+
+
+
+<p>Une galerie d&rsquo;images est un block qui permet de mettre plusieurs images les uns à côtés des autres</p>
+
+
+
+<figure class="wp-block-gallery columns-4 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1024x576.jpg" alt="" data-id="33" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/attachment/280015/" class="wp-image-33" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/280015.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-1024x576.jpg" alt="" data-id="32" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/attachment/241901/" class="wp-image-32" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/241901.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-1024x576.jpg" alt="" data-id="35" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/attachment/403645/" class="wp-image-35" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/403645.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-1024x576.jpg" alt="" data-id="36" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper.jpg" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/4169632-hd-love-wallpaper/" class="wp-image-36" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/4169632-hd-love-wallpaper.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<h2>Ajouter des vidéos</h2>
+
+
+
+<p>Pour ajouter des vidéos dans vos articles, deux manières possibles :</p>
+
+
+
+<ol><li>utiliser un fichier .mp4 que vous avez sur votre ordinateur </li><li>copier une lien d&rsquo;une site qui stocke des vidéos comme Vimeo, Dailymotion ou encore Youtube</li></ol>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Formation WordPress : Créer votre site web professionnel de A à Z" width="750" height="422" src="https://www.youtube.com/embed/ovZPJH4EQ2M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Covid-19 : un dépistage des anticorps, pour éviter la survaccination" frameborder="0" width="750" height="421" src="https://www.dailymotion.com/embed/video/x823yja" allowfullscreen allow="autoplay"></iframe>
+</div></figure>
+
+
+
+<h2>Ajouter une grille d&rsquo;image (galerie)</h2>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-1024x576.jpg" alt="" data-id="40" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper.jpg" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper/" class="wp-image-40" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/american-flag-carnage-marvel-comics-spiderman-logo-1920x1080-wallpaper.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-1024x576.jpg" alt="" data-id="41" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080.jpg" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080/" class="wp-image-41" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers_2_robert_downey_jr_iron_man_tony_stark_chris_evans_captain_america_steve_rogers_chris_hemsworth_102095_1920x1080.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-1024x576.jpg" alt="" data-id="42" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper.jpg" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/avengers-1920x1080-wallpaper/" class="wp-image-42" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/avengers-1920x1080-wallpaper.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="736" height="523" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/36411396-graffiti-wallpaper.jpg" alt="" data-id="39" data-full-url="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/36411396-graffiti-wallpaper.jpg" data-link="http://localhost/wordpress/tp-1/index.php/2021/06/21/article-4/36411396-graffiti-wallpaper/" class="wp-image-39" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/36411396-graffiti-wallpaper.jpg 736w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/36411396-graffiti-wallpaper-300x213.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Article 3</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/article-3/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 10:23:38 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=14</guid>
+
+					<description><![CDATA[Maintenant que l&#8217;on a vu qu&#8217;il est possible d&#8217;ajouter facilement des block html dans la zone de texte. Il est aussi possible de les personnaliser =&#62; les mettre en formes]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap introduction has-text-color has-background" style="background-color:#0029a3;color:#ffffff;font-size:14px;line-height:2.4">Maintenant que l&rsquo;on a vu qu&rsquo;il est possible d&rsquo;ajouter facilement des block html dans la zone de texte. Il est aussi possible de les personnaliser =&gt; les mettre en formes</p>
+
+
+
+<figure class="wp-block-image size-large is-style-twentytwentyone-image-frame"><img loading="lazy" width="1024" height="576" src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg" alt="présenter de l'image avec des clés pour le référencement" class="wp-image-17" srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg 1024w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-300x169.jpg 300w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-768x432.jpg 768w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exo 1</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-1/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 10:12:32 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=10</guid>
+
+					<description><![CDATA[Exo 1 présentation Lorem&#160;ipsum&#160;dolor&#160;sit&#160;amet,&#160;consectetur&#160;adipisicing&#160;elit.&#160;Autem&#160;dolor&#160;tenetur&#160;vitae&#160;aut&#160;iure&#160;nulla&#160;recusandae&#160;esse&#160;perspiciatis&#160;rem&#160;suscipit? Lorem&#160;ipsum&#160;dolor&#160;sit&#160;amet,&#160;consectetur&#160;adipisicing&#160;elit.&#160;Autem&#160;dolor&#160;tenetur&#160;vitae&#160;aut&#160;iure&#160;nulla&#160;recusandae&#160;esse&#160;perspiciatis&#160;rem&#160;suscipit? élément1 élément 2 élément 3 élément 4 Partie 1 Lorem&#160;ipsum&#160;dolor&#160;sit&#160;amet,&#160;consectetur&#160;adipisicing&#160;elit.&#160;Autem&#160;dolor&#160;tenetur&#160;vitae&#160;aut&#160;iure&#160;nulla&#160;recusandae&#160;esse&#160;perspiciatis&#160;rem&#160;suscipit? Partie 2 id num adresse ville 1 75 rue des longs Près Paris 2 17 rue des longs Près Paris 3 22 rue des longs Près Paris titre h2 avec le système de block titre à la main un peu&#8230; <a class="more-link" href="http://localhost/wordpress/tp-1/index.php/2021/06/21/exo-1/">Continue reading <span class="screen-reader-text">Exo 1</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>Exo 1 présentation</h2>
+
+
+
+<p>Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipisicing&nbsp;elit.&nbsp;Autem&nbsp;dolor&nbsp;tenetur&nbsp;vitae&nbsp;aut&nbsp;iure&nbsp;nulla&nbsp;recusandae&nbsp;esse&nbsp;perspiciatis&nbsp;rem&nbsp;suscipit?</p>
+
+
+
+<p>Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipisicing&nbsp;elit.&nbsp;Autem&nbsp;dolor&nbsp;tenetur&nbsp;vitae&nbsp;aut&nbsp;iure&nbsp;nulla&nbsp;recusandae&nbsp;esse&nbsp;perspiciatis&nbsp;rem&nbsp;suscipit?</p>
+
+
+
+<ul><li>élément1</li><li>élément 2</li><li>élément 3</li><li>élément 4</li></ul>
+
+
+
+<h2>Partie 1</h2>
+
+
+
+<p>Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipisicing&nbsp;elit.&nbsp;Autem&nbsp;dolor&nbsp;tenetur&nbsp;vitae&nbsp;aut&nbsp;iure&nbsp;nulla&nbsp;recusandae&nbsp;esse&nbsp;perspiciatis&nbsp;rem&nbsp;suscipit?</p>
+
+
+
+<h2>Partie 2</h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>id</td><td>num</td><td>adresse</td><td>ville</td></tr><tr><td>1</td><td>75</td><td>rue des longs Près</td><td>Paris</td></tr><tr><td>2</td><td>17</td><td>rue des longs Près</td><td>Paris</td></tr><tr><td>3</td><td>22</td><td>rue des longs Près</td><td>Paris</td></tr></tbody></table></figure>
+
+
+
+<h2>titre h2 avec le système de block</h2>
+
+
+
+<h2>titre à la main</h2>
+
+
+
+<h3>un peu de html à la main</h3>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mon premier article</title>
+		<link>http://localhost/wordpress/tp-1/index.php/2021/06/21/mon-premier-article/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 09:43:23 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/tp-1/?p=6</guid>
+
+					<description><![CDATA[Introduction Gutenberg est le nouveau système de gestion dans WordPress pour créer des articles. Ce système permet : ajouter du contenu dans les articles sous forme de block chaque block correspond à une balise ou plusieurs balises html Un gestionnaire de site internet à juste à savoir utiliser ce type de formulaire pour créer une&#8230; <a class="more-link" href="http://localhost/wordpress/tp-1/index.php/2021/06/21/mon-premier-article/">Continue reading <span class="screen-reader-text">Mon premier article</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>Introduction </h2>
+
+
+
+<p class="p-important">Gutenberg est le nouveau système de gestion dans WordPress pour créer des articles. Ce système permet :</p>
+
+
+
+<ul><li>ajouter du contenu dans les articles</li><li>sous forme de block</li><li>chaque block correspond à une balise ou plusieurs balises html </li></ul>
+
+
+
+<p>Un gestionnaire de site internet à juste à savoir utiliser ce type de formulaire pour créer une page html</p>
+
+
+
+<ol><li>vous pouvez facilement changer de type de block</li><li>vous pouvez facilement ajouter un tableau</li><li>vous pouvez aussi facilement ajouter une image</li><li>une fois que vous avez créer votre block vous pouvez aussi facilement le déplacer</li></ol>
+
+
+
+<p style="text-align:center"><button class="mon-btn">exemple de code html</button></p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>id</td><td>Prénom</td><td>nom</td><td>age</td></tr><tr><td>1</td><td>Alain</td><td>DUPONT</td><td>22</td></tr><tr><td>2</td><td>Béatrice</td><td>DUPONT</td><td>24</td></tr></tbody></table></figure>
+
+
+
+<pre class="wp-block-code"><code>&lt;h2&gt;titre de section&lt;/h2&gt;</code></pre>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<pre class="wp-block-code"><code></code></pre>
+
+
+
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, maxime!</p>
+<ul>
+    <li>Lorem.</li>
+    <li>Amet!</li>
+    <li>Eveniet.</li>
+    <li>Cumque?</li>
+    <li>Veritatis.</li>
+</ul>
+<div class="table-responsive">
+<table>
+    <tbody><tr>
+        <td>Lorem.</td>
+        <td>Iusto!</td>
+        <td>Dolor.</td>
+        <td>Corrupti!</td>
+        <td>Ex?</td>
+    </tr>
+    <tr>
+        <td>Lorem.</td>
+        <td>Doloribus?</td>
+        <td>Nostrum?</td>
+        <td>Odio?</td>
+        <td>Ab?</td>
+    </tr>
+    <tr>
+        <td>Lorem.</td>
+        <td>Quis.</td>
+        <td>Dolores!</td>
+        <td>Fugiat.</td>
+        <td>Impedit!</td>
+    </tr>
+</tbody></table>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

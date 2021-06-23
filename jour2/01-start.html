@@ -1,0 +1,89 @@
+1 démarrer XAMPP / MAMP / WAMP 
+
+2 démarrer les services Apache / mySQL 
+
+3 firefox / Chrome => http://localhost/wordpress/tp-1
+3 firefox / Chrome => http://localhost:8888/wordpress/tp-1
+
+=> accéder au back office (étant la barre des raccourcis à disparue)
+
+l'adresse de la page d'accueil du site wp :
+
+http://localhost/wordpress/tp-1/wp-admin
+
+http://localhost/wordpress/tp-1/wp-login.php => demander de vous connecter 
+
+login : admin
+mdp : admin
+
+----------------------- 
+
+
+les articles disposent d'un grand nombre de fonctionnalité pour la création d'articles 
+- titre principale
+- contenu => bloc de gutenberg
+- méta informations
+
+1 les médias => 
+alimenté automatiquement lorsque l'on ajoute une image dans un article via les blocs 
+image / galerie / image à la une 
+
+une fois que les images sont ajoutés dans la médiathèque => il est possible de les utiliser dans d'autres articles 
+
+Téléverser => dans son ordinateur => Médiathèque 
+Médiathèque => réutiliser une image téléchargé et utilisé dans un précédent article 
+
+Possibilité de changer l'orientation de l'image 
+
+Automatiquement lorsque vous téléchargez une image dans Wordpress 
+EN plus de télécharger l'image, WP va effectuer  3 copies de l'image de l'image orginale et 
+ plus petite que la version originale 
+
+1500 x 800
+
+ => Réglages > Médias  > 
+
+ Taille des miniatures 150x150
+ Taille moyenne 300x300
+ Taille grande 1024x1024
+ dupliquer 
+
+ C:\xampp\htdocs\wordpress\tp-1\wp-content\uploads\2021\06
+
+ => responsive design => petit écran => petite image chargement de la page soit le plus rapide possible 
+
+ => dans le back office => pour les besoins de wordpress dans le back office
+ => optimiser le chargement des pages dans les pages d'articles ou dans les pages de back office 
+
+block images 
+
+<figure>
+    <img 
+    loading="lazy" 
+    src="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg" alt="comment utiliser la médiathèque" 
+    class="wp-image-17 " 
+    srcset="http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1024x576.jpg 1024w,
+     http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-300x169.jpg 300w,
+      http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-768x432.jpg 768w,
+       http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1536x864.jpg 1536w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9-1568x882.jpg 1568w, http://localhost/wordpress/tp-1/wp-content/uploads/2021/06/5YK43U9.jpg 1920w" 
+    sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="576">
+</figure>
+
+<!-- 
+    cas pratique :
+
+    créer un nouvel article 
+    
+    titre principal : Exo 4 
+
+    zone de contenu :
+        image modifier ses propriétés d'affichage 
+                miniature
+                center 
+                ajouter un lien hypertexte dessus <a href=""></a> vers google.fr
+                texte alternatif : "3 mot de votre choix"
+        utiliser le bloc personnalisé standard 
+        zone de colonnes 2 colonnes 
+            vidéo 
+            image de taille moyenne 
+-->

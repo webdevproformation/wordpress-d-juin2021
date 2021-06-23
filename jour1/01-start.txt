@@ -1,0 +1,48 @@
+Wordpress base
+
+aujourd'hui et demain => installer wordpress et le découvrir 
+
+
+url : https://formation.webdevpro.net/wordpress
+login : wordpress
+mot de passe : basse
+
+attention les logins et mot de passe en minuscules
+
+----------------------------
+
+Wordpress Perfectionnement
+
+Mercredi -> fin de semaine => codage de wordpress (thème / plugin)
+
+----------------------------
+
+pour les projets en PHP => Wordpress / codé à la main en PHP 
+pour que le projet fonctionne tu as besoin OBLIGATOIREMENT d'une SERVEUR APACHE 
+
+serveur local => logiciel XAMPP ou MAMP sur ton ordinateur (ce ui va être le cas pour nous pendant la formation)
+
+----------------------------
+
+loué un serveur auprès d'un hébergeur => section spéciale dans le support 
+comment mettre en place votre site un hébergeur 
+
+- OVH
+- 1&1
+- Nuxit ( condition négocié avec Doranco => 15€ / an ttc )
+
+https://discord.gg/PkwrUMxc
+
+---------------------------------
+
+organisation 
+
+Visual Studio code popur coder et prises de notes 
+
+dossier jour1/ jour2 ... prendre des notes 
+créer tp1 tp2 .... pour les cas pratiques => installer des wordpress en local
+serveur XAMPP (windows) MAMP (puor les utiisateurs de MacOS)
+
+et plus du Discord j'utilise github pour partager les sources 
+
++ les sites internet de support 
