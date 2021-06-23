@@ -28,3 +28,13 @@ get_footer() ; require("footer.php"); include("header.php");
 get_template_parts()
 
 rechercher.php
+
+en PHP 
+
+if($condition){
+    echo "c'est vrai";
+} else {
+    echo "autre chose";
+}
+
+echo ($condition) ?  "c'est vrai" : "autre chose" ;

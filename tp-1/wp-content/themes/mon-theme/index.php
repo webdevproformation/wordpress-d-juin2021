@@ -30,6 +30,9 @@
                             the_content() => pendre l'intégralité du contenu de la zone de texte dans Gutenberg    
                         --> 
                         </div>
+                        <footer class="card-footer">
+                            <a href="<?= the_permalink() ?>" class="btn btn-dark btn-sm">Lire la suite &rarr;</a>
+                        </footer>
                     </article>
                 </div>
 

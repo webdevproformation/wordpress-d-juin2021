@@ -1,0 +1,35 @@
+en fonction de l'adresse que vous appelez 
+
+http://localhost/wordpress/tp-1/ => requête pour récupérer TOUS les articles disponibles
+page d'accueil 
+
+SELECT * FROM articles  => tableau d'articles 
+
+--------------- 
+
+http://localhost/wordpress/tp-1/article-4/ => wordpress va faire une requête et va uniquement récupérer le contenu de l'article 4 
+
+SELECT * FROM articles WHERE slug = "article-4"  1 seul article 
+
+------ 
+
+code en charge d'afficher le contenu dans la page fonctionne pour 1 article et aussi pour plusieurs articles 
+
+
+<?php if ( have_posts() ){ ?>
+    <?php while ( have_posts() ){ ?>
+    
+    <?php the_post(); ?>
+    
+    <?php edit_post_link('Editer','<div>','</div>',$post); ?>
+   
+    <!-- ecrire ici  -->
+    
+    <?php } ?>
+  <?php } else { ?>
+   <p>Pas de résultat</p>
+<?php } ?>
+
+------
+créer un nouveau fichier single.php 
+single.php 
