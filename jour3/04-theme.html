@@ -1,0 +1,43 @@
+theme => l'apparence visuelle du front office 
+Silk lite
+Mesmeriz
+... 
+
+=> deux manières de faire des thèmes 
+
+=> tout coder intégralement => partir d'une page blanche 
+
+=> thème enfant thème va dépendant d'une autre thème 
+            reprendre l'intégralité des fichiers du thème parent 
+            ET modifier (surcharger) un ou plusieurs fichiers spécifique à votre thème enfant 
+
+voir comment fonctionne un thème en intégralité 
+
+comment est struturé Wordpress en terme de dossier 
+
+wp-admin => tout le code qui permet de faire fonctionner le back office de wordpress 
+
+wp-content => tout le code qui permet de faire fonctionner le front office de wordpress 
+
+wp-includes => l'ensemble des fichiers qui contiennent des fonctions / class qui sont utilisées par le front et le back 
+c'est dans ce dossier que vous allez trouver TOUTES les librairies 
+toutes les Définitions des class et fonctions sont écrites dans ce dossier 
+
+Conseil : JAMAIS modifier des fichiers sources dans les dossiers
+wp-admin  et  wp-includes 
+=> en cas de mise à jour automatiquement tous les fichiers dans ces dossiers sont remplacés 
+
+fichiers php à la racine du projet 
+
+wp-login.php => page de connexion du back office 
+wp-config.php => fichier qui défini des CONSTANTES centrales de wp => se connecter à la base de données 
+
+define('DISALLOW_FILE_MODS', false);
+define( 'WP_DEBUG', false );
+
+wp-load.php => fichier permet de charger wp = accéder à toutes les fonctions de wordpress 
+
+Nous allons travailler dans deux dossiers 
+
+wp-content/themes => créer notre thème 
+wp-content/plugins => créer nos extensions  
