@@ -1,0 +1,16 @@
+tp-1/wp-admin
+tp-1/wp-includes
+tp-1/wp-content/languages
+tp-1/wp-content/uploads
+tp-1/wp-content/index.php
+tp-1/wp-content/upgrade
+tp-1/wp-content/plugins/akismet
+tp-1/wp-content/plugins/formidable
+tp-1/wp-content/plugins/woocommerce
+tp-1/wp-content/plugins/wordpress-importer
+tp-1/wp-content/themes/twentytwenty
+tp-1/wp-content/themes/twentytwentyone
+tp-1/*.php
+documentation
+wordpress-5.7.2.zip
+jour2/php_imagick-3.5.0-7.4-ts-vc15-x64
