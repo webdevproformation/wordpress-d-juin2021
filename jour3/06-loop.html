@@ -1,0 +1,24 @@
+wordpress 
+front office et que vous appelez une adresse  http://localhost/wordpress/tp-1/
+
+automatiquement réalisé une requête en base données => affiché dans la page 
+
+SELECT * FROM articles => tableau parcourir l'afficher dans la page 
+
+remplir la page d'accueil avec la liste des derniers articles que l'on créé dans le back office 
+
+loop => boucle wordpress 
+
+<?php if ( have_posts() ){ ?>
+    <?php while ( have_posts() ){ ?>
+    
+    <?php the_post(); ?>
+    
+    <?php edit_post_link('Editer','<div>','</div>',$post); ?>
+   
+    <!-- ecrire ici  -->
+    
+    <?php } ?>
+  <?php } else { ?>
+   <p>Pas de résultat</p>
+<?php } ?>
