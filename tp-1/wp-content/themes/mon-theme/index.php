@@ -4,6 +4,12 @@
             <h1>Bienvenu dans mon site</h1>
         </div>
     </section>
+    <section  class="row">
+        <div class="col">
+            <?php get_template_part("diaporama") ?>
+        </div>
+    </section>
+
     <section class="row">
 
         <!-- loop -->

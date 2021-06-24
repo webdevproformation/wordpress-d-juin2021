@@ -1,0 +1,60 @@
+serveur WAMP XAMPP MAMP
+Services Apache Ngnix ET MySQL 
+
+http://localhost/wordpress/tp-1/wp-login.php
+
+barre de menu 
+
+position:absolute 
+
+1 plugin => extension injecte du css => s'appliquer à la place de ton code css
+2 cache du navigateur => le css que tu as écrit est exécuté en fait non 
+   un vieux fichier qu'il a dans sa mémoire 
+3 position:absolute 
+
+
+thème dans wordpress => à partir d'une page blanche
+
+dossier mon-theme 
+         functions.php 
+         index.php 
+         style.css => commentaire format bien défini => BO détecter / installer
+            /*
+                Theme Name: mon theme
+                Author: Malik H
+                Description: Formation wordpress perfectionnement
+                Version: 1.0
+                Text Domain: starter
+            */
+         screenshot.png 
+
+    wp est écrit en PHP MAIS wp founit une grande quantité de fonctions 
+    pour faire en sorte que créer un site / thème TRES rapidement 
+
+    fonctions de wordpress écrite en PHP 
+
+    1 get_template_directory_uri()
+    2 wp_head() // wp_footer() => barre raccourcis 
+    3 get_header() get_footer() get_template_part() => découper les fichiers de html en petits / réutiliser 
+    4 Loop => 
+        en fonction du permalien de la page qui est appelée dans le front 
+        wp va faire une requête SQL à la base de données => récupérer ou ou plusieurs enregistrement 
+
+        have_posts() => ?? est ce que j'ai des données 
+
+        while(have_posts()){
+            the_post() ; 
+            => dans l'article the_title()
+            => the_content()
+            => the_excerpt()
+            => the_post_thumbnail()
+        }
+
+    détection de commentaire ?? 
+        en PHP fonction qui permet ouvrir un fichier et de prendre son contenu dans le stocker dans une variable 
+
+    faire une bloc à la main 
+
+
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+
