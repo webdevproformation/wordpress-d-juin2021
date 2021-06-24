@@ -10,19 +10,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 <!-- Full-width images with number and caption text -->
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="https://source.unsplash.com/random/800x300" style="width:100%">
+  <img src="https://source.unsplash.com/random/800x300" style="width:100%" loading="lazy">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="https://source.unsplash.com/random/800x301" style="width:100%">
+  <img src="https://source.unsplash.com/random/800x301" style="width:100%" loading="lazy">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="https://source.unsplash.com/random/800x302" style="width:100%">
+  <img src="https://source.unsplash.com/random/800x302" style="width:100%" loading="lazy">
   <div class="text">Caption Three</div>
 </div>
 
