@@ -19,10 +19,16 @@
         <div class="container">
             <div class="row">
                 <nav class="navbar navbar-expand navbar-dark col">
-                    <a href="#" class="navbar-brand">Mon thème</a>
+                    <a href="<?= get_option("home") ?>" class="navbar-brand">Mon thème</a>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Accueil</a>
+                            <a href="<?= get_option("home") ?>" class="nav-link">Accueil</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="<?= get_permalink(107) ?>" class="nav-link">Exo 4</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="<?= get_permalink(113) ?>" class="nav-link">Nous contacter</a>
                         </li>
                     </ul>
                    <?php get_template_part("rechercher", null, ["class" => "ms-auto"]) ?>

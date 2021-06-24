@@ -1,0 +1,63 @@
+support de cours 
+
+schéma découpé en deux parties
+
+gauche vers la droite 
+
+wordpress dans le Front Office 7 grands types de pages que l'on peut afficher dans le front office 
+
+Page d'archive => page qui vont regrouper plusieurs articles 
+            menu => lien vers une catégorie 
+Page singular 
+              => article / page 
+
+http://localhost/wordpress/tp-1/nous-contacter/ => page 
+
+            singular.php
+            index.php 
+
+Page d'accueil 
+             => page d'accueil du site 
+
+http://localhost/wordpress/tp-1/
+            front-page.php 
+            home.php 
+            index.php 
+    
+Erreur 404
+            => page si l'url ne correspond à aucun article existant
+
+Page de recherche 
+            => page de résultat de recherche 
+
+
+en fonction de l'url appelé dans le front office => wp va regarder dans le dossier du thème activé 
+il va rechercher est que 
+    front-page.php => exécuter puis stop sinon
+    home.php => exécuté puis stop sinon 
+    index.php exécute puis stop 
+    Erreur 
+
+page 
+    page-slug-page.php
+    page-1.php 
+    page.php 
+    singular.php 
+    index.php
+    Erreur 
+
+template hiérarchy 
+
+=> ajouter des liens dans la barre de menu 
+
+=> fonction dans wordpress qui permet de générer 
+=>  l'url des contenus créés dans le back office 
+=> get_permalink()
+
+--------
+
+=> Back office => gestionnaire de la barre de menu 
+1 Activer le gestionnaire de barre de menu dans le back office 
+2 fonctions de wordpress gérer automatiquement le contenu de la barre de menu du Front Office 
+
+=> rdv 15h18 @ toute suite !!

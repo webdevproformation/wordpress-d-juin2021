@@ -1,5 +1,5 @@
 <?php get_header()?>
-
+<p>je suis la page single.php </p>
 <div class="row">
     <?php if(have_posts()) : ?>
         <?php while(have_posts()) : ?>
