@@ -1,4 +1,10 @@
- <!-- Slideshow container -->
+<?php 
+if ( ! defined( 'ABSPATH' ) ) {
+  exit;
+}
+?>
+
+<!-- Slideshow container -->
  <div class="slideshow-container">
 
 <!-- Full-width images with number and caption text -->

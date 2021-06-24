@@ -6,7 +6,7 @@
     </section>
     <section  class="row">
         <div class="col">
-            <?php get_template_part("diaporama") ?>
+            <?= generateHtmlDiaporama() ?>
         </div>
     </section>
 
