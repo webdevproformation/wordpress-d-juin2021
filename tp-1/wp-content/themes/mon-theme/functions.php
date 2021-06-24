@@ -23,5 +23,9 @@ function readStyle(){
     die();
 
 }
+// activer la gestion du menu dans le back office > apparence
+// permet de créer deux zones qui vont contenir 2 barres de menu 
+register_nav_menus([ "top" => "Principal" , "bottom" => "Pied" ]);
+
 
 //readStyle();

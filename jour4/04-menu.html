@@ -1,0 +1,35 @@
+activer le gestionnaire de menu dans le back office :
+
+fichier functions.php 
+
+
+javascript 
+
+let a = ["a","b", "c"]; // tableau de js 
+let b = { 
+    titre : "premier article",
+    contenu : "lorem ipsum"
+};
+
+il est possible de mixer tableau et objets => collection 
+
+let c = [ 
+    { couleur : "red" , largeur : 10} , 
+    {couleur : "blue" , largeur : 30} , 
+    { couleur : "pink" , largeur : 50 }
+]; // tableau qui contient des objets => Collection 
+
+c[1].largeur // 30
+c[2].couleur // "pink"
+
+-------------------
+$m = wp_get_nav_menu_items('Principale')
+
+$m =  [ {
+    ID : 232 ,
+    post_author : '1',
+    'post_date' : '2021-06-24 15:28:35',
+    ... 
+ } , {} , { } ]
+
+ $m[0]->post_date
