@@ -1,12 +1,7 @@
 <?php get_header() ?>
     <section class="row">
         <div class="col">
-            <h1>Bienvenu dans mon site</h1>
-        </div>
-    </section>
-    <section  class="row">
-        <div class="col">
-            <?= generateHtmlDiaporama() ?>
+            <h1>Bienvenu dans mon site utilisant un thème enfant</h1>
         </div>
     </section>
     <section class="row">

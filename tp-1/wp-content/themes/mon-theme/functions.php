@@ -74,3 +74,15 @@ function starter_support(){
 }
 
 add_action( 'after_setup_theme', 'starter_support' );
+
+function meta(){
+    $m = get_the_tags(); // rien // [{},{}]
+    $me = "";
+    if(is_array($m)){
+       foreach($m as $e){
+            $me .= $e->name .",";
+        }
+      return $me ;
+    }
+    return "";
+}
