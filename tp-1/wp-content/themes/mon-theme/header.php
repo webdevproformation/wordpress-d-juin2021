@@ -20,18 +20,7 @@
             <div class="row">
                 <nav class="navbar navbar-expand navbar-dark col">
                     <a href="<?= get_option("home") ?>" class="navbar-brand">Mon thème</a>
-                    <ul class="navbar-nav">
-                        <?php $m = wp_get_nav_menu_items("Principale"); ?>
-                        <?php foreach($m as $lien): ?>
-                            <?php if($lien->menu_item_parent === "0") : ?>
-                                <?= "<li class=\"nav-item\">" ?>
-                                <?= "<a href=\"$lien->url\" class=\"nav-link\">" ?>
-                                <?= $lien->title ?>
-                                <?= "</a>" ?>
-                                <?= "</li>" ?>
-                            <?php endif  ?>
-                        <?php endforeach ?>
-                    </ul>
+                    <?= menu3("Principale") ?>
                    <?php get_template_part("rechercher", null, ["class" => "ms-auto"]) ?>
                 </nav>
             </div>

@@ -1,13 +1,14 @@
 <?php 
 
 /**
- * Plugin Name: Bootstrap 5
+ * Plugin Name: Bootstrap 5.3
  * Author: Malik H
  * Description: Ajouter la librairie Bootstrap 5 dans mon thème
- * Version: 1.0
+ * Version: 1.2
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
+    echo "arrêt de m'attaquer !!!";
     exit;
 }
 

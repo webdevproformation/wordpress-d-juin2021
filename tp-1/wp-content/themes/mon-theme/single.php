@@ -1,5 +1,6 @@
 <?php get_header()?>
-<p>je suis la page single.php </p>
+<?php //$data = get_post(107); ?> <!-- SELECT * FROM wp_posts WHERE id = 107 -->
+<?php // var_dump( $data ) ?><!--  Fatal error: Uncaught Error: Object of class WP_Post could not be converted to string  -->
 <div class="row">
     <?php if(have_posts()) : ?>
         <?php while(have_posts()) : ?>

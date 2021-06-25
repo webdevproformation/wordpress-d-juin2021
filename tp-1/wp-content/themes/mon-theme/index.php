@@ -18,7 +18,7 @@
                 <div class="col-4">
                     <article class="card">
                         <header class="card-header">
-                            <h2><?= the_title() ?></h2>
+                            <h2 class="fs-3"><?= the_title() ?></h2>
                             <?php edit_post_link( "Modifier" , "<div>" , "</div>" , $post ) ?>
                             <!-- <div><a href="http://localhost/wordpress/tp-1/wp-admin/post.php?post=107&action=edit">Modifier</a></div> -->
                         </header>

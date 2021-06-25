@@ -1,0 +1,143 @@
+<?php edit_post_link( "Modifier" , "<div>" , "</div>" , $post ) ?>
+
+permet d'ajouter dans le Front office un balise html 
+<a href="lien direct vers gutenberg">Modifier</a> => back office => Gutenberg 
+
+ce lien n'apparait dans le front office QUE pour les gestionnaires connectés 
+
+=> présentation 
+
+-------------------------------------
+
+loop
+
+get_post() 
+get_post(123)  // requête sql   récupérer toutes les informations pour 1 article / page particulière
+
+$data = get_post(107);
+
+titre
+zone de contenu => H2
+meta information 
+
+objet => WP_Post 
+
+-------------------------------------
+
+var_dump() => fonction de PHP  // print_r(); 
+
+dump => dumper (=> mot qui prend ses origines des bases de données du langage SQL )
+SELECT 
+
+fonction de débuggage => comprendre ce que contient une variable de type tableau / objet 
+
+$tableau = [1,2,3]; 
+
+echo $tableau ; // Erreur PHP  => convertir un array en string 
+
+var_dump($tableau); 
+print_r($tableau) ;
+
+--------------------------
+
+theme 
+extension / plugin => Diaporama // bootstrap 
+
+d'ajouter de nouvelles fonctionnalités à notre site wordpress 
+=> ajouté dans le Front office  => Bootstrap 5
+=> ajouté dans le Back Office => 
+=> ajouté dans les deux => diaporama 
+
+1 créer un dossier DIRECTEMENT dans le dossier wp-content/plugins
+
+2 créer un fichier index.php // bootstrap.php
+
+3 ouvrir <?php => commentaire à RESPECTER à la lettre 
+
+4 back office et activer votre extension 
+
+5 index.php et dans tous les fichiers .php de l'extension 
+
+if ( ! defined( 'ABSPATH' ) ) { // est ce que la constante ABSPATH existe ??? => injection par appel de l'url de l'extension
+    exit;
+}
+Postman 
+
+add_action() => hook point d'accroche => permet de modifier une fonction sans avoir à écrire dedans 
+wp_enqueue_style()  => hook // ajouter un fichier .css dans le front
+wp_enqueue_script()  => hook // ajouter un fichier .js dans le front 
+
+function calcul($a, $b){
+    do_action("avant_return", instruction); // point d'accroche 
+    return $a + $b ;
+}
+
+je veux ajouter de nouvelles instructions dans la fonction calcul
+
+add_action("avant_return" , function(){
+    if($a== $b){
+        return $a - $a ;
+    }
+})
+
+function calcul2($a, $b){
+    if($a== $b){
+        return $a - $a ;
+    }
+    return $a + $b ;
+}
+
+---------------------
+
+fonction de PHP => fonctions de output buffering 
+ob_start(); // PHP de créer une liste d'attente 
+
+// instructions => <header></header>
+// instructions => require include copie le contenu du fichier dans celui qui contient le require include 
+// instructions <p></p>
+// instructions <a href=""></a>
+// instructions <hr>
+
+$variable = ob_get_clean(); // PHP exécuter toutes les travaux qui sont dans la liste d'attente 
+
+logiciel (word) => imprimer => logiciel liste des impressions à réaliser l'imprimante 
+buffer => lister d'attente le travail à réaliser => imprimer 
+
+// https://www.php.net/manual/fr/ref.outcontrol.php
+---------------------
+
+
+thème comment il faut nommer les fichiers de theme pour que wordpress prennent en compte
+template hiérarchy 
+
+lien hypertexte 
+get_permalink()
+activer et utiliser le gestionnaire de menu du back office 
+
+http://localhost/wordpress/tp-1
+
+
+=> idée => ce que tu veux faire ?? 
+    graphisme
+    fonctionnalité 
+    ergonomie 
+
+=> exécution / implémentation => transformer l'idée en information 
+
+    plusieurs solutions possibles
+    - html / css 
+    - html / css / javascript 
+    - Wordpress 
+    - Wordpress Plugin
+    - Wordpress coder à la main 
+    - Wordpress coder à la main PHP / Symfony ... 
+    - composer => https://getcomposer.org/
+
+=> Menu 
+=> Design 
+=> SEO 
+=> Pagination 
+=> WP_Query 
+=> Sécurité 
+
+=> qcm 
