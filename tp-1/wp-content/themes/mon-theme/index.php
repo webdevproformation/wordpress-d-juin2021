@@ -23,11 +23,7 @@
                             <!-- <div><a href="http://localhost/wordpress/tp-1/wp-admin/post.php?post=107&action=edit">Modifier</a></div> -->
                         </header>
                         <!-- ajouter une image  l'image --> 
-                        <?php if(has_post_thumbnail()) : ?>
-                            <?php the_post_thumbnail('post-thumbnail' , ["class" => "img-fluid"]) ?>
-                        <?php else : ?>
-                            <img src="http://via.placeholder.com/300x200" alt="">
-                        <?php endif ; ?>
+                        <?php get_template_part("part/miniature") ?>
                         <div class="card-body">
                             <?php the_excerpt() ?>
                             <!--  petit résumé => méta information extrait ou les premiers mots

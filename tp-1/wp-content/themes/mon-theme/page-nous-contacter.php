@@ -13,11 +13,7 @@
             </header>
             <?php edit_post_link( "Modifier" , "<div class='col-12'>" , "</div>" , $post ) ?>
             <div class="col-6">
-                <?php if(has_post_thumbnail()) : ?>
-                    <?php the_post_thumbnail( "large", ["class" => "img-thumbnail"] ) ?>
-                <?php else : ?>
-                    <img src="http://via.placeholder.com/700x400" alt="" class="img-thumbnail">
-                <?php endif ?>
+                <?php get_template_part("part/miniature") ?>
             </div>
             <div class="col-6">
                 <ul>
