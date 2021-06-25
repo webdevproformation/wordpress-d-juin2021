@@ -133,11 +133,45 @@ http://localhost/wordpress/tp-1
     - Wordpress coder à la main PHP / Symfony ... 
     - composer => https://getcomposer.org/
 
-=> Menu 
-=> Design 
+=> Menu ok 
+=> Design  => 
+gérer l'apparence des différentes pages du front office 
+
+=> template hiérarchy => fonction de type de page que l'on appelle dans le front office 
+=> vous allez un fichier .php qui va être recherché dans le dossier du thème actif 
+
 => SEO 
 => Pagination 
 => WP_Query 
 => Sécurité 
 
 => qcm 
+
+
+&nbsp;
+
+cas pratique 
+
+1 créer un fichier de template dédié à la page nous contacter 
+Uniquement pour la page nous contacter mise en page spécifique !! 
+=>template hiérarchy créer dans le dossier mon-theme
+
+page-nous-contacter.php
+
+2 réaliser la mise en forme suivante 
+
+<?php if(have_posts()) : ?>
+    <?php while(have_posts()) : ?>
+        <?php the_post() ?>
+    <?php endwhile ?>
+<?php else : ?>
+    <p>aucune page trouvée </p>
+<?php endif ?>
+
+titre dans une balise h1  - date de publication 
+
+deux colonnes : une image à la une // texte => champ personnalisé 
+
+colonne unique le contenu 
+
+Bootstrap et la loop de wordpress 

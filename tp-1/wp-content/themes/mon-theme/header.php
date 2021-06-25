@@ -19,8 +19,8 @@
         <div class="container">
             <div class="row">
                 <nav class="navbar navbar-expand navbar-dark col">
-                    <a href="<?= get_option("home") ?>" class="navbar-brand">Mon thème</a>
-                    <?= menu3("Principale") ?>
+                   <a href="<?= get_option("home") ?>" class="navbar-brand">Mon thème</a>
+                   <?= menu3("Principale") ?>
                    <?php get_template_part("rechercher", null, ["class" => "ms-auto"]) ?>
                 </nav>
             </div>
